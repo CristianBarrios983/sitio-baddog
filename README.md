@@ -1,7 +1,7 @@
 # Sitio-BADDOG
 
 ## Descripcion 
-Este proyecto ha sido creado como reto de Frontend Mentor. Creado con HTML, CSS y utilizando metodologia BEM.
+Este proyecto ha sido creado como parte de un curso de Bootstrap en Youtube. Hecho principalmente con Bootstap y un poco de CSS.
 
 ## Autor 
 **Cristian Barrios**
