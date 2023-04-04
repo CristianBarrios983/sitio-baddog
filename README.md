@@ -1,7 +1,7 @@
 # Sitio-BADDOG
 
 ## Descripcion 
-Este proyecto ha sido creado como parte de un curso de Bootstrap en Youtube. Hecho principalmente con Bootstap y un poco de CSS.
+Este proyecto ha sido creado como parte de un curso de Bootstrap en Youtube. Hecho principalmente con Bootstrap y un poco de CSS.
 
 ## Autor 
 **Cristian Barrios**
